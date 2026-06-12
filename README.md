@@ -86,6 +86,7 @@ I care about writing code that's clean, scalable, and actually solves a problem 
 
 <br/>
 
+
 ## 🟣 Featured Projects
 
 <details open>
@@ -100,6 +101,23 @@ I care about writing code that's clean, scalable, and actually solves a problem 
 - 📊 Built an **admin dashboard** for managing products, pricing, stock, and images
 
 `React.js` `Spring Boot` `MongoDB` `JWT` `REST API`
+
+</details>
+
+<details>
+<summary><b>🌦️ Weather Dashboard</b> — React.js · OpenWeather API</summary>
+<br/>
+
+> A responsive weather dashboard that fetches real-time weather data for any city, with a clean, minimal UI.
+
+- 🌍 Allows users to **search any city** and view current weather conditions instantly
+- 📡 Integrated a **third-party weather API** to fetch live temperature, humidity, and conditions data
+- 🎨 Designed a clean, **responsive UI** for quick readability across devices
+- 🚀 **Deployed live** on Render for public access
+
+`React.js` `Weather API` `Responsive Design` `Render`
+
+🔗 **Live Demo:** [weather-dashboard-hbqg.onrender.com](https://weather-dashboard-hbqg.onrender.com/)
 
 </details>
 
