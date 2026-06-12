@@ -14,16 +14,14 @@
 
 <br/><br/>
 
-<a href="https://YOUR_PORTFOLIO_URL.com">
-  <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<a href="https://www.linkedin.com/in/harshini-bharathi-r">
   <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:harshinibhararthi2410671@ssn.edu.in">
+<a href="mailto:bharathiharshini07@gmail.com">
   <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Harshini07raja">
   <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -125,39 +123,18 @@ I care about writing code that's clean, scalable, and actually solves a problem 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harshini07raja&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harshini07raja&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshini07raja&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshini07raja&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9"/>
 
 </div>
 
 <br/>
 
-## 🟣 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:harshinibhararthi2410671@ssn.edu.in">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<i>“Clean code, clear purpose, constant growth.”</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
