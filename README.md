@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Harshini%20Bharathi%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20CSE%20Undergrad&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+full-stack+products;React.js+%7C+Spring+Boot+%7C+MongoDB;Always+shipping%2C+always+learning;Open+to+SDE+Internships+2026&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+full-stack+products;React.js+%7C+Spring+Boot+%7C+MongoDB;Always+shipping%2C+always+learning;Open+to+SDE+Internships+2027&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000&color=A78BFA&vCenter=true&size=22"/>
 </a>
 
 <br/>
@@ -28,8 +28,7 @@
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Harshini07raja&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Harshini07raja?style=for-the-badge&color=a78bfa&label=FOLLOWERS&logo=github"/>
-<img src="https://img.shields.io/github/stars/Harshini07raja?style=for-the-badge&color=7c3aed&label=STARS&logo=github"/>
+
 
 </div>
 
