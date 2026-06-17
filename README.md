@@ -112,11 +112,11 @@ I care about writing code that's clean, scalable, and actually solves a problem 
 - 🌍 Allows users to **search any city** and view current weather conditions instantly
 - 📡 Integrated a **third-party weather API** to fetch live temperature, humidity, and conditions data
 - 🎨 Designed a clean, **responsive UI** for quick readability across devices
-- 🚀 **Deployed live** on Render for public access
+- 🚀 **Deployed live** on Vercel for public access
 
-`React.js` `Weather API` `Responsive Design` `Render`
+`React.js` `Weather API` `Responsive Design` `Vercel`
 
-🔗 **Live Demo:** [weather-dashboard-hbqg.onrender.com](https://weather-dashboard-hbqg.onrender.com/)
+🔗 **Live Demo:** [weather-dashboard-qdg4.vercel.app](https://weather-dashboard-qdg4.vercel.app//)
 
 </details>
 
